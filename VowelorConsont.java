@@ -21,7 +21,7 @@ class Ideone
 		{
 			System.out.println("Consonent");
 		}
-		else ()
+		else 
 		{
 			System.out.println("Invalid");
       }
