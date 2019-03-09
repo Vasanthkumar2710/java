@@ -12,13 +12,9 @@ class Ideone
 		// your code goes here
 			int a=0;
 		Scanner s=new Scanner(System.in);
-		int K=s.nextInt();
-	    for (int i=1;i<=K;i++)
-	    {
-	    	System.out.println(+i);
-	   }
 	    int n=s.nextInt();
-		for(int i=1;i<=n;i++)
+	    int m=s.nextInt();
+		for(int i=1;i<=m;i++)
 		 a=a+i;
 		System.out.println(+a);
 		
